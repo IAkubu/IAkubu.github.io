@@ -19,6 +19,7 @@ My GitHub page is http://github.com/IAkubu.
 * Lab 12
 
    Lab 12 part 1 was a good showcase of the image creating abilities with the Magick::Image library. It shows us the capabilities of computers with simple code. It makes you wonder just how far can you go. During our lectures we were shown a few really good images that could be created with this format and trying to figure out the code and effort behind the images is only more fun when you have tried it out yourself.
+   
    ```c
    #Blue Lock
    Images/animatedimg.gif
